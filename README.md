@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/jay_dhamija?igsh=YjZxNnMzN2VwNTdq" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-</div><div id="badges">
+</div><div align="center">
 <img src="https://komarev.com/ghpvc/?username=JayDhamija&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
