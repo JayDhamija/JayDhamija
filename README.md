@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://open.spotify.com/track/4xAYDw7NVSKkvMIE9vFTVu?si=bd3fef396c194947" target="_blank">
+  <a href="https://www.linkedin.com/in/jay-dhamija-739923318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:jaydhamija@gmail.com" target="_blank">
