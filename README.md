@@ -59,6 +59,7 @@ I am a Robotics Engineer and Fullstack Developer <img src="https://media.giphy.c
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JayDhamija&theme=dark&background=000000)](https://git.io/streak-stats)
+---
+
 
 
