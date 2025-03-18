@@ -33,7 +33,6 @@ I am a Robotics Engineer and Fullstack Developer <img src="https://media.giphy.c
 - 🔬 I’m working on **Robotics & Autonomous Systems**, focusing on SLAM, Motion Planning, and Sensor Fusion.  
 - 🤖 Building **Quadruped Robots, AMRs, and Mars Rovers** using ROS2 & MATLAB.  
 - ⚡ Passionate about AI, Simulation, and Embedded Systems.  
-- 📬 How to reach me:  
-  [![LinkedIn Badge](https://img.shields.io/badge/-JayDhamija-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jay-dhamija-739923318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 📬 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-JayDhamija-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jay-dhamija-739923318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 
