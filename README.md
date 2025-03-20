@@ -22,7 +22,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-<img src="https://www.shutterstock.com/image-vector/automation-business-process-vector-illustration-600nw-2255704473.jpg" height="70%">
+<img src="https://www.shutterstock.com/image-vector/automation-business-process-vector-illustration-600nw-2255704473.jpg" height="70px">
 </div>
 
 
