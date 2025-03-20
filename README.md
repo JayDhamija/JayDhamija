@@ -68,4 +68,5 @@ I am a Robotics Engineer and Fullstack Developer <img src="https://media.giphy.c
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=JayDhamija&theme=react" alt="GitHub Streak" /></a>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayDhamija&theme=github_dark)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayDhamija&langs_count=8)</div>
